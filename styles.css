@@ -1,0 +1,93 @@
+.navbar-brand,.about,h1,h2{
+    font-family: 'Righteous', cursive;
+}
+#header{
+    text-align: center;
+    background-color: rgb(17, 16, 16);
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+    margin-top: 8%;
+  }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .introimage{
+    width: 100%;
+  }
+  /* about */
+  #about{
+    text-align: center;
+    padding: 2% 10%;
+  }
+  .about{
+    
+    color: rgb(255, 102, 0);
+
+  }
+  .col-lg-6{
+    text-align: center;
+    padding: 2%;
+  }
+  .logo1{
+    width: 50%;
+    border-radius: 100%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+
+  }
+  .card-text{
+    text-align: left;
+  }
+  /* service */
+  #services{
+    text-align: center;
+    padding: 5%;
+    background-color: orangered;
+  }
+  .service{
+    color: rgb(255, 255, 255);
+  }
+  .col-lg-4{
+    padding: 5%;
+  }
+  .card{
+    border-radius: 5%;
+    
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  .service-icon{
+    margin: 10%;
+    color: rgb(253, 93, 0);
+  }
+  /* works */
+  #works{
+    text-align: center;
+    background-color: rgb(49, 49, 49);
+    padding: 5%;
+    color: aliceblue;
+  }
+ 
+  
+
+  #contacts{
+    text-align: center;
+    padding: 5%;
+    
+  }
+  .contacticon{
+    color: rgb(253, 93, 0);
+    margin: 2%;
+  }
+  #footer{
+    text-align: center;
+    background-color: rgb(19, 18, 18);
+    padding: 5%;
+    color: aliceblue;
+  }
